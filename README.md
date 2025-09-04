@@ -1,96 +1,123 @@
-# Nazmul Islam
-
-**Full Stack Python Developer | Django Specialist**
-
-[![GitHub followers](https://img.shields.io/github/followers/nazmulislam4?style=flat-square&color=0366d6)](https://github.com/nazmulislam4?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=nazmulislam4&color=0366d6&style=flat-square)](https://github.com/nazmulislam4)
-
----
-
-## About
-
-I'm a passionate Python developer with expertise in Django framework, currently working at **Mohuls Soft Limited**. I specialize in building scalable web applications and have a strong focus on clean code, performance optimization, and user experience.
-
-- 🔭 Currently working on scalable web applications using Django and modern frontend frameworks
-- 🌱 Continuously learning advanced Django patterns and system design principles
-- 💼 Professional experience in full-stack development at Mohuls Soft Limited
-- 🎯 Participating in the "10 Minute Program" for intensive skill development
-- 📍 Based in Bangladesh
-
-## Technical Skills
-
-### Backend
-- **Python** - Django, Django REST Framework
-- **Databases** - PostgreSQL, MySQL
-- **API Development** - RESTful APIs, Authentication & Authorization
-
-### Frontend
-- **JavaScript** - ES6+, DOM manipulation, Async programming
-- **Frameworks** - Vue.js, React
-- **Styling** - HTML5, CSS3, Tailwind CSS, Bootstrap
-
-### Tools & Technologies
-- **Version Control** - Git, GitHub
-- **Containerization** - Docker
-- **Caching** - Redis
-- **Development** - VS Code, PyCharm
-
-## Featured Projects
-
-### 🎓 School Management System
-**Tech Stack:** Django, PostgreSQL, Bootstrap  
-**Status:** Production  
-A comprehensive school management platform handling student records, attendance, and academic administration.
-
-### 🛒 E-commerce Platform
-**Tech Stack:** Django REST Framework, Vue.js, Redis  
-**Status:** In Development  
-Modern e-commerce solution with inventory management, payment integration, and real-time updates.
-
-### 📋 Task Management Application
-**Tech Stack:** Django, React, PostgreSQL  
-**Status:** Planning Phase  
-Collaborative task management tool with team workflows and progress tracking.
-
-## GitHub Statistics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazmulislam4&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulislam4&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Python+%2526+Django+Developer;Full+Stack+Web+Developer;Problem+Solver+%2526+Code+Enthusiast
+
 </div>
+🚀 About Me
+I'm a passionate Python & Django developer with expertise in building robust, scalable web applications. Currently working at Mohuls Soft Limited while continuously expanding my skills through projects and learning initiatives like the 10 Minute Program.
 
-## Professional Experience
+python
+class Developer:
+    def __init__(self):
+        self.name = "Nazmul Islam"
+        self.role = "Python & Django Developer"
+        self.company = "Mohuls Soft Limited"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.passion = "Building solutions that make a difference"
+    
+    def skills(self):
+        return ["Python", "Django", "JavaScript", "Vue.js", "React", "PostgreSQL"]
+    
+    def current_focus(self):
+        return "Building scalable web applications & mastering system design"
 
-**Software Developer** @ Mohuls Soft Limited  
-*Current Position*
+me = Developer()
+🛠️ Technical Stack
+Backend Development
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 
-- Develop and maintain web applications using Django framework
-- Collaborate with cross-functional teams to deliver high-quality software solutions
-- Implement best practices for code quality, testing, and deployment
-- Optimize application performance and user experience
+Frontend Development
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 
-## Current Focus
+Database & DevOps
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
-- **Performance Optimization**: Implementing caching strategies and database optimization
-- **Modern Frontend**: Advancing skills in Vue.js and React ecosystem
-- **System Design**: Learning scalable architecture patterns and microservices
-- **Best Practices**: Following industry standards for code quality and documentation
+Tools & Technologies
+https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/nginx-%2523009639.svg?style=for-the-badge&logo=nginx&logoColor=white
 
-## Connect
+📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=nazmulislam4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true
 
-- 📧 **Email**: nazmul.islam.dev@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/nazmulislam4](https://linkedin.com/in/nazmulislam4)
-- 🌐 **Portfolio**: [nazmulislam4.github.io](https://nazmulislam4.github.io/)
-- 💻 **GitHub**: [@nazmulislam4](https://github.com/nazmulislam4)
+https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulislam4&layout=compact&theme=radical&hide_border=true&langs_count=8
 
-## Open to Opportunities
+https://streak-stats.demolab.com/?user=nazmulislam4&theme=radical&hide_border=true
 
-I'm interested in:
-- Full-time Python/Django developer positions
-- Freelance web development projects
-- Open source collaborations
-- Technical mentoring and knowledge sharing
+</div>
+🏆 Featured Projects
+🔥 School Management System
+A comprehensive Django-based school management system with student, teacher, and administrative modules.
 
----
+Tech Stack: Django, PostgreSQL, Bootstrap, JavaScript
 
-*Building robust, scalable applications with clean code and thoughtful design.*
+🚀 E-commerce Platform
+Full-featured e-commerce solution with payment integration and inventory management.
+
+Tech Stack: Django REST Framework, Vue.js, Redis, Celery
+
+💼 Task Management App
+Productivity application with real-time updates and collaborative features.
+
+Tech Stack: Django, React, WebSockets, PostgreSQL
+
+📈 Activity Graph
+https://github-readme-activity-graph.vercel.app/graph?username=nazmulislam4&theme=react-dark&hide_border=true&area=true
+
+🎯 Currently Working On
+Professional Projects at Mohuls Soft Limited
+
+10 Minute Program - Intensive skill development initiative
+
+Open Source Contributions to Django ecosystem
+
+System Design mastery and architecture patterns
+
+🌱 Learning Goals
+Advanced Django patterns and best practices
+
+Microservices architecture
+
+Cloud infrastructure (AWS/GCP)
+
+Performance optimization techniques
+
+DevOps and CI/CD pipelines
+
+🤝 Let's Collaborate
+I'm always open to discussing:
+
+Freelance opportunities - Full-stack development projects
+
+Technical consulting - Architecture and code reviews
+
+Open source contributions - Django and Python projects
+
+Mentorship - Helping junior developers grow
+
+📫 Reach Me
+<div align="center">
+https://img.shields.io/badge/Email-nazmul.islam.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-Nazmul_Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-nazmulislam4.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/GitHub-nazmulislam4-181717?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+<div align="center">
+⚡ Fun Fact
+"I believe in writing clean, maintainable code that not only works but tells a story."
+
+https://komarev.com/ghpvc/?username=nazmulislam4&color=blueviolet&style=flat
+
+⭐ From Nazmul Islam with ❤️
+
+</div>
